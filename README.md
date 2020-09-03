@@ -35,7 +35,7 @@ And choices on what to add into our project.
 
 ## Credits
 
--GetEstablishments and Spinners by Brittany:
+-GetEstablishments and Spinners by Brittani:
   link:
 
 -JavaScript Function by Chris:
